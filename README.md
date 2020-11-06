@@ -1,2 +1,2 @@
-# Mini-Project
-Mini Project for ML
+# Project
+Project for ML
